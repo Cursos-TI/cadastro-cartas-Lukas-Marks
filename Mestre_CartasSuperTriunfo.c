@@ -132,7 +132,7 @@ char* combateDensidade = (densidadePopulacional > densidadePopulacional2) ? "Car
 char* combatePibPerCapita = (pibPerCapita > pibPerCapita2) ? "Carta 1 Ganhou" : "Carta 2 Ganhou";
 char* combateFinal = (superPoder > superPoder2) ? "Carta 1 Ganhou" : "Carta 2 Ganhou";
 
-
+// Combate das cartas
 printf("------------------------------------------- \n");
 printf("COMBATE DAS CARTAS ");
 printf("Populacao %s \n", combatePopulacional );
